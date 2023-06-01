@@ -55,4 +55,4 @@ To further enhance JOBIFY, the following recommendations are suggested:
 JOBIFY is a user-centric job search and recruitment application designed to simplify the process of finding and filling job positions. By providing a seamless platform for job seekers and employers to connect, communicate, and hire, JOBIFY aims to revolutionize the job market. With its robust features, intuitive design, and potential for future expansion, JOBIFY is poised to become a leading application in the industry.
 
 
-AUTHOR:- EHIGIAMUSOE PETER SOLOMON, ADEDIRAN EUNICE ADEBUKOLA, AYODEJI EDEN.
+AUTHOR:- SOLOMON PETER EHIGIAMUSOE, ADEDIRAN EUNICE ADEBUKOLA, AYODEJI EDEN.
