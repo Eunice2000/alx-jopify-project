@@ -15,5 +15,6 @@ const apiLimiter = rateLimit({
 router.route("/register").post(apiLimiter, register);
 router.route("/login").post(apiLimiter, login);
 router.route("/updateUser").patch(auth, updateUser);
+router.route("/nelly").;;patch(auth, updateUser);
 
 export default router;
