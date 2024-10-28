@@ -1,6 +1,6 @@
 ![dashboard](https://github.com/Eunice2000/alx-jopify-project/assets/111003697/57382cec-0ecc-4fe9-ac17-333b4d1bf688)
 ![jobify login page](https://github.com/Eunice2000/alx-jopify-project/assets/111003697/03cd3464-55fb-4e6b-aa0e-9f0eed46cfbf)
-![jobify login page JPG a](https://github.com/Eunice2000/alx-jopify-project/assets/111003697/ae228b19-8385-487a-9806-cfa1a9223734)
+![jobify login page JPG a](https://github.com/Eunice2000/alx-jopify-project/assets/111003697/ae228b19-8385-487a-9806-cfa1a9223734)   
 [Project Report]
 
 Title: JOBIFY - Job Search and Recruitment Application
